@@ -1,3 +1,26 @@
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/_hunter12_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/rbteacher999_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:rkrakibul2009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Animated Neon Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0088AA,100:00F7FF&height=120&section=footer" width="100%" />
+</div>
+
 ### 🌟 Featured Projects
 
 <div align="center">
