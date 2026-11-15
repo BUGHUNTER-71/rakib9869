@@ -61,3 +61,20 @@
     </tr>
   </table>
 </div>
+
+### ⚡ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
+### 💻 Top Languages & Coding Metrics
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="175em" src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&config.timezone=Asia%2FDhaka" />
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+</div>
+
